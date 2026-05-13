@@ -1,0 +1,19 @@
+{
+  "name": "fulcra-pm-marketplace",
+  "owner": {
+    "name": "ash",
+    "email": "ash@noreply.invalid"
+  },
+  "metadata": {
+    "description": "Personal marketplace for the fulcra-pm plugin.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "fulcra-pm",
+      "description": "Shared task tracker for Claude agents, backed by the Fulcra Life API.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

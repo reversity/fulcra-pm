@@ -1,0 +1,11 @@
+{
+  "name": "fulcra-pm",
+  "version": "0.1.0",
+  "description": "Shared task tracker for Claude Code agents, backed by the Fulcra Life API. Tasks persist server-side so multiple sessions, subagents, and external agents authenticated to the same Fulcra account see the same list.",
+  "author": {
+    "name": "ash",
+    "email": "ash@noreply.invalid"
+  },
+  "keywords": ["fulcra", "task-management", "agents", "cross-session", "shared-state"],
+  "license": "MIT"
+}
