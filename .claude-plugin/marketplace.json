@@ -1,8 +1,7 @@
 {
   "name": "fulcra-pm-marketplace",
   "owner": {
-    "name": "ash",
-    "email": "ash@noreply.invalid"
+    "name": "ash"
   },
   "metadata": {
     "description": "Personal marketplace for the fulcra-pm plugin.",
